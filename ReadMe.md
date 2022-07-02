@@ -2,6 +2,8 @@
 ## A passionate front end developer from Brazil
 ######
 
+<img src="octocat-1656794221254.png"/>
+
 - 🔭 I’m currently working on **Trivia**
 
 - 🌱 I’m currently learning **redux and hooks**
