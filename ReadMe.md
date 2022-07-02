@@ -2,7 +2,7 @@
 ## A passionate front end developer from Brazil
 ######
 
-<img src="octocat-1656794221254.png"/>
+<img src="octocat-1656794221254.png" width="200px"/>
 
 - 🔭 I’m currently working on **Trivia**
 
