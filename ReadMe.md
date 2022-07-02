@@ -1,4 +1,4 @@
-# Hi 👋, I'm Byanca
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23036B52&size=22&width=350&lines=Ol%C3%A1%2C+eu+sou+a+Byanca+Knorst!;Welcome+to+my+Hub!)](https://git.io/typing-svg)
 ## A passionate front end developer from Brazil
 ######
 <img src="octocat-1656794221254.png" width="500px" align="right"/>
