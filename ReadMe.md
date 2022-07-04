@@ -2,9 +2,8 @@
 ## A passionate front end developer from Brazil
 ######
 <img src="octocat-1656794221254.png" width="500px" align="right"/>
-- 🔭 I’m currently working on **Trivia**
 
-- 🌱 I’m currently learning **redux and hooks**
+- 🔭 I’m currently learning TypeScript
 
 - 🤝 I’m looking for help with **CSS improvements**
 
