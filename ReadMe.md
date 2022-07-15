@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **CSS improvements**
 
-- 💬 Ask me about **JavaScript, music, films and games**
+- 💬 Ask me about **JavaScript, music, chess, sudokuu, films and games**
 
 - ⚡ Interesting fact **I'm graduated in engineering and making career transition**
 
