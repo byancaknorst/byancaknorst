@@ -1,15 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23036B52&size=22&width=350&lines=Ol%C3%A1%2C+eu+sou+a+Byanca+Knorst!;Welcome+to+my+Hub!)](https://git.io/typing-svg)
-## A passionate front end developer from Brazil
+## A passionate full stack developer from Brazil
 ######
 <img src="octocat-1656794221254.png" width="500px" align="right"/>
 
-- 🔭 I’m currently learning TypeScript
+- 🔭 I’m currently learning C#
 
-- 🤝 I’m looking for help with **CSS improvements**
+- 🤝 I’m looking for help with **C#**
 
-- 💬 Ask me about **JavaScript, music, chess, sudokuu, films and games**
+- 💬 Ask me about **JavaScript, music, chess, sudoku, films and games**
 
 - ⚡ Interesting fact **I'm graduated in engineering and making career transition**
+
+- 💼 I work as a back end developer at XP Inc.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -21,7 +23,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
+  <img title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+ 
 </p>
 
 <a href="https://www.linkedin.com/in/byancaknorst/" target="_blank">
